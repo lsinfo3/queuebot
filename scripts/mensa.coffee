@@ -1,4 +1,4 @@
-cheerio = require('cheerio'),
+cheerio = require('cheerio')
 _ = require('lodash')
 
 module.exports = (robot) ->
